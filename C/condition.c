@@ -1,7 +1,7 @@
 #include <time.h>
-#pragma warning (disable:4996
+#pragma warning (disable:4996)
 
-//#include<stdlib.h>
+#include<stdlib.h>
 #include<stdio.h>
 int main_condition()
 {
@@ -100,4 +100,4 @@ int main_condition()
 
 	}
 	return 0;
-}s
+}

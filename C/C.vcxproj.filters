@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2562bj.c">
+    <ClCompile Include="2562.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="loop.c">
@@ -25,6 +25,21 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="printfscanf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10699.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11382.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2420.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2741.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10872.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
