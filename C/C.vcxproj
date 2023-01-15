@@ -140,6 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="2562bj.c" />
+    <ClCompile Include="condition.c" />
+    <ClCompile Include="loop.c" />
+    <ClCompile Include="printfscanf.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
