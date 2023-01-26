@@ -129,5 +129,11 @@
     <ClCompile Include="s5-4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="s5-5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="S5-6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
