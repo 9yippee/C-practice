@@ -25,11 +25,11 @@ int main_loop()
 
 //****do {} while (Á¶°Ç);
 
-/*int i = 1;
-do {
-	printf("aaa %d\n", i);
-	i++;
-} while (i <= 10);*/
+	int i = 1;
+	do {
+		printf("aaa %d\n", i);
+		i++;
+	} while (i <= 10);
 
 
 
@@ -77,7 +77,7 @@ do {
 }*/
 
 
-	int floor;
+	/*int floor;
 	printf("Ãþ ¼ö : ");
 	scanf("%d", &floor);
 	for (int i = 0; i < 5; i++)
@@ -95,5 +95,5 @@ do {
 	}
 
 
-	return 0;
+	return 0;*/
 }
