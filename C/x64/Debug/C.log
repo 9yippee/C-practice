@@ -1,3 +1,6 @@
-﻿  pointer_swap.c
-C:\Users\guhyu\source\C\C\pointer_swap.c(9): warning C4716: 'swap': 값을 반환해야 합니다.
+﻿  pointerchange.c
+C:\Users\guhyu\source\C\C\pointerchange.c(9,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\guhyu\source\C\C\pointerchange.c(9,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Users\guhyu\source\C\C\pointerchange.c(12,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\guhyu\source\C\C\pointerchange.c(12,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
   C.vcxproj -> C:\Users\guhyu\source\C\x64\Debug\C.exe

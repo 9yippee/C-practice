@@ -138,5 +138,11 @@
     <ClCompile Include="pointer_swap.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pointer_parctice.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointerchange.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
