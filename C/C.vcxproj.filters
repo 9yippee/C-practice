@@ -135,5 +135,8 @@
     <ClCompile Include="S5-6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pointer_swap.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
